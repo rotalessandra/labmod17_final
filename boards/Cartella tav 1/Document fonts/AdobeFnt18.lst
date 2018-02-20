@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.18
-%Locale:0x409
+%Locale:0x410
 
 %BeginFont
 Handler:DirectoryHandler
@@ -7,18 +7,18 @@ FontType:TrueType
 FontName:Antonio-Light
 FamilyName:Antonio
 StyleName:Light
+FullName:Antonio Light
 MenuName:Antonio
 StyleBits:0
-WeightClass:300
-WidthClass:1
-AngleClass:0
-FullName:Antonio Light
 WritingScript:Roman
-OutlineFileName:\Antonio-Light.ttf
+OutlineFileName:C:\Users\alexi\Desktop\GitHub\labmod17_final\boards\Cartella tav 1\Document fonts\Antonio-Light.ttf
 DataFormat:sfntData
 hasSVG:no
 FileLength:46564
-FileModTime:1373982838
+FileModTime:1519148718
+WeightClass:300
+WidthClass:1
+AngleClass:0
 NameArray:0,Mac,4,Antonio Light
 NameArray:0,Win,1,Antonio
 NameArray:0,Win,16,Antonio
@@ -30,18 +30,18 @@ FontType:TrueType
 FontName:Antonio-Regular
 FamilyName:Antonio
 StyleName:Regular
+FullName:Antonio Regular
 MenuName:Antonio
 StyleBits:0
-WeightClass:400
-WidthClass:1
-AngleClass:0
-FullName:Antonio Regular
 WritingScript:Roman
-OutlineFileName:\Antonio-Regular.ttf
+OutlineFileName:C:\Users\alexi\Desktop\GitHub\labmod17_final\boards\Cartella tav 1\Document fonts\Antonio-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 FileLength:47944
-FileModTime:1373982838
+FileModTime:1519148718
+WeightClass:400
+WidthClass:1
+AngleClass:0
 NameArray:0,Mac,4,Antonio Regular
 NameArray:0,Win,1,Antonio
 NameArray:0,Win,16,Antonio
@@ -53,20 +53,20 @@ FontType:Type1
 FontName:MinionPro-Semibold
 FamilyName:Minion Pro
 StyleName:Semibold
+FullName:Minion Pro Semibold
 MenuName:Minion Pro SmBd
 StyleBits:0
-WeightClass:600
-WidthClass:5
-AngleClass:0
-FullName:Minion Pro Semibold
 WritingScript:Roman
-OutlineFileName:\MinionPro-Semibold.otf
+OutlineFileName:C:\Users\alexi\Desktop\GitHub\labmod17_final\boards\Cartella tav 1\Document fonts\MinionPro-Semibold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:221460
-FileModTime:1489797724
+FileModTime:1519148718
+WeightClass:600
+WidthClass:5
+AngleClass:0
 DesignSize:110
 NameArray:0,Mac,18,Minion Pro SmBd
 NameArray:0,Mac,4,Minion Pro Semibold
