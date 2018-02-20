@@ -1,0 +1,76 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Light
+FamilyName:Antonio
+StyleName:Light
+MenuName:Antonio
+StyleBits:0
+WeightClass:300
+WidthClass:1
+AngleClass:0
+FullName:Antonio Light
+WritingScript:Roman
+OutlineFileName:\Antonio-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:46564
+FileModTime:1373982838
+NameArray:0,Mac,4,Antonio Light
+NameArray:0,Win,1,Antonio
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Regular
+FamilyName:Antonio
+StyleName:Regular
+MenuName:Antonio
+StyleBits:0
+WeightClass:400
+WidthClass:1
+AngleClass:0
+FullName:Antonio Regular
+WritingScript:Roman
+OutlineFileName:\Antonio-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:47944
+FileModTime:1373982838
+NameArray:0,Mac,4,Antonio Regular
+NameArray:0,Win,1,Antonio
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Semibold
+FamilyName:Minion Pro
+StyleName:Semibold
+MenuName:Minion Pro SmBd
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Semibold
+WritingScript:Roman
+OutlineFileName:\MinionPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:221460
+FileModTime:1489797724
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro SmBd
+NameArray:0,Mac,4,Minion Pro Semibold
+NameArray:0,Win,1,Minion Pro SmBd
+NameArray:0,Win,16,Minion Pro
+%EndFont
+

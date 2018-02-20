@@ -1,0 +1,90 @@
+ISTRUZIONI DI STAMPA ADOBE INDESIGN DESTINATE AL SERVICE DI STAMPA
+
+NOME PUBBLICAZIONE: tav 1.indd
+
+DATA PREPARAZIONE PACCHETTO: 20/02/18 18:30
+Data di creazione: 20/02/18
+Data di modifica: 20/02/18
+
+INFORMAZIONI DI CONTATTO
+
+Nome società: 
+Contatto: 
+Indirizzo: 
+
+
+
+
+
+Telefono: 
+Fax: 
+E-mail: 
+
+ISTRUZIONI SPECIALI E ALTRE INDICAZIONI
+
+
+
+
+
+
+Plug-in esterni 0
+Oggetti non opachi: A pagina1
+
+FONT
+4 font usati; 1 mancanti, 0 incorporati, 0 incompleti, 0 protetti
+
+Font inclusi nel pacchetto
+- Nome: Antonio-Light; Tipo: TrueType, Stato: OK
+- Nome: Antonio-Regular; Tipo: TrueType, Stato: OK
+- Nome: MinionPro-Semibold; Tipo: OpenType Type 1, Stato: OK
+- Nome: Quatro Semibold; Tipo: ???, Stato: mancanti
+
+
+COLORI E INCHIOSTRI
+4 inchiostri di quadricromia; 0 inchiostri tinta piatta
+
+- Nome e tipo: Cyan quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+- Nome e tipo: Magenta quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+- Nome e tipo: Giallo quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+- Nome e tipo: Nero quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+
+
+COLLEGAMENTI E IMMAGINI
+(Solo collegamenti mancanti e incorporati)
+Collegamenti e immagini: 6 collegamenti trovati; 0 modificati, 0 mancanti 0 Non accessibile
+Immagini: 0 incorporati, 6 usano spazio cromatico RGB
+
+
+IMPOSTAZIONI DI STAMPA
+PPD: N/D, (ENVY 120 series)
+Stampa in corso su: Stampante
+Numero di copie: 1
+Pagine affiancate: No
+Pagine pari/dispari: Entrambe
+Pagine: Tutte
+Prova di stampa: No
+Divisione in porzioni: Nessuno
+Scala: 100%, 100%
+Posizione pagina: In alto a sinistra
+Stampa livelli: Livelli visibili e stampabili
+Segni di stampa: Nessuno
+Pagina al vivo: 0 mm, 0 mm, 0 mm, 0 mm
+Colore: RGB composito
+Modalità abbondanza: Nessuno
+Invia dati immagine: Subsampling ottimizzato
+Sostituzione immagini OPI/DCS: No
+Dimensioni pagina: Personalizzate: 420 mm x 594 mm
+Dimensioni carta: 210 mm x 297 mm
+Orientamento: Verticale
+Negativo: No
+Modalità riflessione: Disattivato
+
+
+ELENCO DEI FILE DEL PACCHETTO
+
+1. tav 1.indd; tipo: Pubblicazione Adobe InDesign; dimensione: 3052K
+2. tav 1.idml; tipo: Documento InDesign Markup; dimensione: 64K
+3. tav 1.pdf; tipo: Documento Adobe Acrobat; dimensione: 1112K
+4. Antonio-Light.ttf; tipo: Font; dimensione: 45K
+5. Antonio-Regular.ttf; tipo: Font; dimensione: 46K
+6. MinionPro-Semibold.otf; tipo: Font; dimensione: 216K
